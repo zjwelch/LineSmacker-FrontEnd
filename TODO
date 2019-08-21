@@ -1,0 +1,21 @@
+Serverless framework via AWS (Kubernetes)
+ReactNative front end
+Python Backend
+MariaDB
+
+TO DO:
+Both:
+setup/connect to git projects with containers in folderX
+learn React Native
+learn python web
+research aws free tier / ec2/ecs/eks ?? Lamdba
+
+Colin:
+setup frontend git project - share to zacharyjwelch@gmail.com (zjwelch)
+hello world in ReactNative (for iphone/android)
+make a shitty datafile (make test database)
+
+Z:
+setup backend git project - share to cbusseata@gmail.com  (cbusseata)
+review Flask/(DJango) framework "mega tutorial"
+Hello my name is X in Python (RESTFUL)
